@@ -35,11 +35,18 @@ The application aims to make cooking more engaging and accessible by combining a
 
 ## Screenshots
 
-Screenshots and application demonstrations will be added here.
+<img width="1080" height="2340" alt="1000103702" src="https://github.com/user-attachments/assets/5d9e2fbd-46ac-4155-aac3-be5f53d1583d" />
+<img width="1080" height="2340" alt="1000103706" src="https://github.com/user-attachments/assets/ef1245ef-fad2-4aed-a4a7-4b42930c0177" />
 
-<!-- Add screenshots using:
-![ZapRecipe Screenshot](screenshots/screenshot-name.png)
--->
+
+<img width="1080" height="2340" alt="1000103701" src="https://github.com/user-attachments/assets/c1199fdb-776f-4aa3-a384-606f94503f4f" />
+<img width="1080" height="2340" alt="1000103699" src="https://github.com/user-attachments/assets/f3bcdd17-eb85-4c16-8326-e9e5d8a34c5f" />
+
+<img width="1080" height="2340" alt="1000103694" src="https://github.com/user-attachments/assets/9aa32553-b161-40a1-9aba-337e729366df" />
+<img width="1080" height="2340" alt="1000103691" src="https://github.com/user-attachments/assets/c90f5079-7aec-4b84-a77e-ee48011bc975" />
+
+
+
 
 ## Project Structure
 
